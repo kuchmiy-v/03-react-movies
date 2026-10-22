@@ -1,4 +1,4 @@
-import { useEffect, type KeyboardEvent } from 'react';
+// import { useEffect, type KeyboardEvent } from 'react';
 import Modal from 'react-modal';
 import type { Movie } from '../../types/movie';
 import css from './MovieModal.module.css';
